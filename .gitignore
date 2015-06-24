@@ -1,2 +1,4 @@
-user_guide/
-miSitio.sql
+application/config/
+application/cache/
+application/logs/
+.htaccess
